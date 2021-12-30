@@ -1,5 +1,4 @@
 //Name: Tal Rodgold
-//ID: 318162344
 //Course: Workshop in c++
 //Task number: task 1 question 2
 //This program checks wich worker in latt lev made the least amount of money and the worker who got the highest sallery
